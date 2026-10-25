@@ -38,23 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddycosplay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oddycosplay&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddycosplay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<h3 align="center">🔥 Featured Project</h3>
-
-<p align="center">
-  <a href="https://github.com/oddycosplay/ayamgeprekpamulang">
-    <img src="https://img.shields.io/badge/Ayam-Geprek-Pamulang-34D058?style=for-the-badge" alt="Ayam Geprek Pamulang" />
-  </a>
-</p>
-
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
