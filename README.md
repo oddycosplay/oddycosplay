@@ -32,6 +32,11 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=oddycosplay&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddycosplay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
