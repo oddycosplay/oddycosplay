@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oddy+Cosplay;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
+</div>
 
-<!--
-**oddycosplay/oddycosplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/oddycosplay">
+    <img src="https://img.shields.io/badge/GitHub-@oddycosplay-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/oddycosplay/ayamgeprekpamulang">
+    <img src="https://img.shields.io/badge/Project-Ayam%20Geprek%20Pamulang-34D058?style=for-the-badge" alt="Project" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I’m a passionate developer focused on creating modern, clean, and user-friendly web experiences.
+  I enjoy building products with React, TypeScript, Tailwind CSS, Express, and MySQL.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite" />
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oddycosplay&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddycosplay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<h3 align="center">🔥 Featured Project</h3>
+
+<p align="center">
+  <a href="https://github.com/oddycosplay/ayamgeprekpamulang">
+    <img src="https://img.shields.io/badge/Ayam-Geprek-Pamulang-34D058?style=for-the-badge" alt="Ayam Geprek Pamulang" />
+  </a>
+</p>
+
+<h3 align="center">📫 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://github.com/oddycosplay">GitHub</a> |
+  <a href="https://instagram.com/oddycosplay">Instagram</a> |
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oddycosplay&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views" />
+</p>
