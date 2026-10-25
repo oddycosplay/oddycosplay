@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#00C2FF;">Sangam Krishna</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00C2FF;">Muhammad Oddy Rizki Hartawan</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+PWA+Builder;Android+Developer;Data+Analyst;Open+to+Work" alt="Typing SVG" />
@@ -18,7 +18,8 @@
 - 📊 I turn raw data into clear dashboards and insights as a Data Analyst.
 - 🧰 Comfortable across the stack: JavaScript, TypeScript, React, Python, Kotlin.
 - 🤝 Open to full-time roles and freelance projects — remote, worldwide.
-- 📍 Based in India 🇮🇳
+- 🎓 Student at Universitas Pamulang
+- 📍 Based in Indonesia 🇮🇩
 
 ---
 
