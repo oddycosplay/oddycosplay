@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oddy+Cosplay;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
+</div>
 <p align="center">
   <a href="https://github.com/oddycosplay">
     <img src="https://img.shields.io/badge/GitHub-@oddycosplay-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -59,9 +62,6 @@
 |--------|-------------|------|
 | [OpenJarvis](https://github.com/oddycosplay/OpenJarvis) | Voice assistant with TTS, chatbot & automation | Python |
 | [codeflow-ai-reviewer](https://github.com/oddycosplay/codeflow-ai-reviewer) | AI-powered GitHub PR code review bot | Python |
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oddy+Cosplay;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
-</div>
 
 <h3 align="center">📫 Let's Connect</h3>
 
