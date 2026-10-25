@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/oddycosplay">GitHub</a> |
   <a href="https://instagram.com/oddycosplay">Instagram</a> |
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:oddycosplay@gmail.com">Email</a>
 </p>
 
 <p align="center">
