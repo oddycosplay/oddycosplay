@@ -1,76 +1,58 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Oddy+Cosplay;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+modern+web+experiences" alt="Typing SVG" />
-</div>
-<p align="center">
-  <a href="https://github.com/oddycosplay">
-    <img src="https://img.shields.io/badge/GitHub-@oddycosplay-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://github.com/oddycosplay/ayamgeprekpamulang">
-    <img src="https://img.shields.io/badge/Project-Ayam%20Geprek%20Pamulang-34D058?style=for-the-badge" alt="Project" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+# 🚀 Projects Portfolio
 
-<h3 align="center">🚀 About Me</h3>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-oddycosplay%2Foddycosplay-181717?logo=github&style=for-the-badge)](https://github.com/oddycosplay/oddycosplay)
+[![Profile](https://img.shields.io/badge/Profile-oddycosplay-1DA1F2?logo=github&style=for-the-badge)](https://github.com/oddycosplay)
+[![Status](https://img.shields.io/badge/Status-Portfolio%20%26%20Planned%20Projects-4E9A06?style=for-the-badge)](https://github.com/oddycosplay/oddycosplay)
 
-<p align="center">
-  I’m a passionate developer focused on creating modern, clean, and user-friendly web experiences.
-  I enjoy building products with React, TypeScript, Tailwind CSS, Express, and MySQL.
-</p>
+> Repository ini berfungsi sebagai ruang portfolio dan showcase proyek yang sedang direncanakan maupun dikembangkan.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite" />
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=oddycosplay&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddycosplay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
 ## 📂 Projects by Category
 
 ### 🌐 Web Apps & PWAs
-| Project | Description | Tech |
-|--------|-------------|------|
 
+| Project | Description | Tech |
+|---|---|---|
+| Portfolio Website | Personal portfolio and project showcase | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| Business Dashboard | Analytics, automation, and activity monitoring dashboard | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square) |
 
 ### 📱 Android Apps
+
 | Project | Description | Tech |
-|--------|-------------|------|
+|---|---|---|
+| Mobile Utility App | Productivity and automation companion app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=flat-square) |
 
 ### 🟦 TypeScript Apps
-| Project | Description | Tech |
-|--------|-------------|------|
 
+| Project | Description | Tech |
+|---|---|---|
+| TypeScript Dashboard | Modern frontend app with reusable components | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) |
+| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
 
 ### 📊 Data Analyst & Data Apps
-| Project | Description | Tech |
-|--------|-------------|------|
 
+| Project | Description | Tech |
+|---|---|---|
+| Data Insights Dashboard | KPI reports and business analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=microsoftpowerbi&logoColor=black&style=flat-square) |
+| Data Processing Tool | ETL and automation for processing datasets | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square) |
 
 ### 🐍 Python
+
 | Project | Description | Tech |
-|--------|-------------|------|
-| [OpenJarvis](https://github.com/oddycosplay/OpenJarvis) | Voice assistant with TTS, chatbot & automation | Python |
-| [codeflow-ai-reviewer](https://github.com/oddycosplay/codeflow-ai-reviewer) | AI-powered GitHub PR code review bot | Python |
+|---|---|---|
+| OpenJarvis | Voice assistant with TTS, chatbot, and automation | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| codeflow-ai-reviewer | AI-powered GitHub PR code review bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) |
 
-<h3 align="center">📫 Let's Connect</h3>
+---
 
-<p align="center">
-  <a href="https://github.com/oddycosplay">GitHub</a> |
-  <a href="https://instagram.com/oddycosplay">Instagram</a> |
-  <a href="mailto:oddycosplay@gmail.com">Email</a>
-</p>
+## 🧠 Tech Stack Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oddycosplay&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+---
+
+Thanks for visiting! 🚀
