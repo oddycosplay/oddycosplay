@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#00C2FF;">Muhammad Oddy Rizki Hartawan</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'moddycosplay+Web+Developer+PWA+Builder;Android+Developer;Data+Analyst;Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+oddy+cosplay;UI+UX+Designer;Web+Developer+PWA+Builder;Android+Developer;Bisnis+Analyst;Open+to+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
