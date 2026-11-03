@@ -61,39 +61,49 @@
 
 ## 📂 Projects by Category
 
+> Kolom **Repository** berisi tautan ke repositori proyek yang sudah tersedia. Tanda `—` berarti repositori belum ditautkan.
+
 ### 🌐 Web Apps & PWAs
 
-| Project | Description | Tech |
-|---|---|---|
-| Portfolio Website | Personal portfolio and project showcase | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) |
-| Business Dashboard | Analytics, automation, and activity monitoring dashboard | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| Portfolio Website | Personal portfolio and project showcase | — | UI/UX, responsive design, web development | HTML5, CSS3 |
+| Business Dashboard | Analytics, automation, and activity monitoring dashboard | — | Dashboard development, data visualization, automation | React, TypeScript |
 
 ### 📱 Android Apps
 
-| Project | Description | Tech |
-|---|---|---|
-| Mobile Utility App | Productivity and automation companion app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square) |
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| Mobile Utility App | Productivity and automation companion app | — | Android development, mobile automation | Kotlin, Android |
 
 ### 🟦 TypeScript Apps
 
-| Project | Description | Tech |
-|---|---|---|
-| TypeScript Dashboard | Modern frontend app with reusable components | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
-| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square) |
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| TypeScript Dashboard | Modern frontend app with reusable components | — | Component architecture, frontend development | TypeScript, React |
+| Admin Panel | Internal tools with tables, charts, and forms | — | Admin interfaces, forms, data visualization | TypeScript, Next.js |
 
 ### 📊 Data Analyst & Data Apps
 
-| Project | Description | Tech |
-|---|---|---|
-| Data Insights Dashboard | KPI reports and business analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
-| Data Processing Tool | ETL and automation for processing datasets | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white&style=flat-square) |
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| Data Insights Dashboard | KPI reports and business analysis | — | Data analysis, KPI reporting, visualization | Python, Pandas |
+| Data Processing Tool | ETL and automation for processing datasets | — | ETL, data processing, SQL queries | Python, SQL |
 
 ### 🐍 Python
 
-| Project | Description | Tech |
-|---|---|---|
-| OpenJarvis | Voice assistant with TTS, chatbot, and automation | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| codeflow-ai-reviewer | AI-powered GitHub PR code review bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) |
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| OpenJarvis | Voice assistant with TTS, chatbot, and automation | — | Voice interfaces, chatbot development, automation | Python |
+| codeflow-ai-reviewer | AI-powered GitHub PR code review bot | — | AI integration, code review workflows, CI/CD | Python, GitHub Actions |
+
+### 🎓 Academic Projects & Skills
+
+| Project | Description | Repository | Skills | Tech |
+|---|---|---|---|---|
+| Agent Skripsi | AI agent project for supporting academic and thesis work | [agent-skripsi-ku](https://github.com/oddycosplay/agent-skripsi-ku) | Academic research, thesis assistance, AI agents | — |
+| AI Research Agent | Research-focused AI agent | [ai-research-agent](https://github.com/oddycosplay/ai-research-agent) | AI research workflows, information synthesis, agent development | TypeScript |
+| Scopus Q1 Introduction Evaluator | Evaluates the introduction section of a research manuscript using four questions | [Skill-Scopus-Q1-Introduction-Evaluator.md](https://github.com/oddycosplay/Skill-Scopus-Q1-Introduction-Evaluator.md) | Academic writing, manuscript evaluation, research methodology | — |
 
 ---
 
