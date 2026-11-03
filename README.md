@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#00C2FF;">Muhammad Oddy Rizki Hartawan</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+oddy+cosplay;UI+UX+Designer;Web+Developer+PWA+Builder;Android+Developer;Bisnis+Analyst;Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+oddy+cosplay;UI+UX+Designer;Web+Developer+PWA+Builder;A[...]
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oddycosplay&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=oddycosplay&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,28 +69,28 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| Portfolio Website | Personal portfolio and project showcase | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
-| Business Dashboard | Analytics, automation, and activity monitoring dashboard | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square) |
+| Portfolio Website | Personal portfolio and project showcase | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) |
+| Business Dashboard | Analytics, automation, and activity monitoring dashboard | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 
 ### 📱 Android Apps
 
 | Project | Description | Tech |
 |---|---|---|
-| Mobile Utility App | Productivity and automation companion app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=flat-square) |
+| Mobile Utility App | Productivity and automation companion app | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square) |
 
 ### 🟦 TypeScript Apps
 
 | Project | Description | Tech |
 |---|---|---|
-| TypeScript Dashboard | Modern frontend app with reusable components | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) |
-| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) |
+| TypeScript Dashboard | Modern frontend app with reusable components | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
+| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) |
 
 ### 📊 Data Analyst & Data Apps
 
 | Project | Description | Tech |
 |---|---|---|
-| Data Insights Dashboard | KPI reports and business analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=microsoftpowerbi&logoColor=black&style=flat-square) |
-| Data Processing Tool | ETL and automation for processing datasets | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square) |
+| Data Insights Dashboard | KPI reports and business analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square) |
+| Data Processing Tool | ETL and automation for processing datasets | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white&style=flat-square) |
 
 ### 🐍 Python
 
