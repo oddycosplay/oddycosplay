@@ -26,7 +26,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats: 135 total contributions, current streak 2 days, longest streak 3 days" width="520" />
+  <img src="./github-stats.svg" alt="GitHub Stats" width="520" />
 </p>
 
 ---
