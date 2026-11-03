@@ -25,36 +25,9 @@
 
 ## 📈 GitHub Stats
 
-<h3 align="center">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24" alt="GitHub" />
-  GitHub Stats
-</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
-      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.08); border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
-        <div style="font-size: 42px; font-weight: 800; color: #f2f7ff; line-height: 1;">135</div>
-        <div style="margin-top: 20px; font-size: 18px; font-weight: 600; color: #f2f7ff;">Total Contributions</div>
-        <div style="margin-top: 12px; font-size: 14px; color: #c9d4ea;">Jul 12, 2023 - Present</div>
-      </div>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
-      <div style="background: #0f172a; border: 1px solid #ff4fa3; border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
-        <div style="display: inline-flex; align-items: center; justify-content: center; width: 118px; height: 118px; border: 4px solid #ff4fa3; border-radius: 50%; color: #ff4fa3; font-size: 54px; font-weight: 700; line-height: 1; margin-bottom: 8px;">2</div>
-        <div style="font-size: 18px; font-weight: 600; color: #ff4fa3;">Current Streak</div>
-        <div style="margin-top: 12px; font-size: 16px; color: #f2f7ff;">Nov 2 - Nov 3</div>
-      </div>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
-      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.08); border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
-        <div style="font-size: 42px; font-weight: 800; color: #f2f7ff; line-height: 1;">3</div>
-        <div style="margin-top: 20px; font-size: 18px; font-weight: 600; color: #f2f7ff;">Longest Streak</div>
-        <div style="margin-top: 12px; font-size: 14px; color: #c9d4ea;">Oct 12 - Oct 14</div>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./github-stats.svg" alt="GitHub Stats: 135 total contributions, current streak 2 days, longest streak 3 days" width="520" />
+</p>
 
 ---
 
