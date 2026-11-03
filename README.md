@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#00C2FF;">Muhammad Oddy Rizki Hartawan</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+oddy+cosplay;UI+UX+Designer;Web+Developer+PWA+Builder;A[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=I'm+oddy+cosplay;UI+UX+Designer;Web+Developer+PWA+Builder;Android+App+Developer;Data+Analyst;Open+to+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +25,36 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oddycosplay&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<h3 align="center">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="24" height="24" alt="GitHub" />
+  GitHub Stats
+</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=oddycosplay&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
+      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.08); border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
+        <div style="font-size: 42px; font-weight: 800; color: #f2f7ff; line-height: 1;">135</div>
+        <div style="margin-top: 20px; font-size: 18px; font-weight: 600; color: #f2f7ff;">Total Contributions</div>
+        <div style="margin-top: 12px; font-size: 14px; color: #c9d4ea;">Jul 12, 2023 - Present</div>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
+      <div style="background: #0f172a; border: 1px solid #ff4fa3; border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
+        <div style="display: inline-flex; align-items: center; justify-content: center; width: 118px; height: 118px; border: 4px solid #ff4fa3; border-radius: 50%; color: #ff4fa3; font-size: 54px; font-weight: 700; line-height: 1; margin-bottom: 8px;">2</div>
+        <div style="font-size: 18px; font-weight: 600; color: #ff4fa3;">Current Streak</div>
+        <div style="margin-top: 12px; font-size: 16px; color: #f2f7ff;">Nov 2 - Nov 3</div>
+      </div>
+    </td>
+    <td align="center" width="33%" valign="top" style="padding: 8px 10px;">
+      <div style="background: #0f172a; border: 1px solid rgba(255,255,255,0.08); border-radius: 18px; padding: 30px 18px 22px; min-height: 170px; box-shadow: 0 10px 18px rgba(0,0,0,0.18);">
+        <div style="font-size: 42px; font-weight: 800; color: #f2f7ff; line-height: 1;">3</div>
+        <div style="margin-top: 20px; font-size: 18px; font-weight: 600; color: #f2f7ff;">Longest Streak</div>
+        <div style="margin-top: 12px; font-size: 14px; color: #c9d4ea;">Oct 12 - Oct 14</div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,7 +106,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | TypeScript Dashboard | Modern frontend app with reusable components | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
-| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) |
+| Admin Panel | Internal tools with tables, charts, and forms | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square) |
 
 ### 📊 Data Analyst & Data Apps
 
